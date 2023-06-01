@@ -1,6 +1,6 @@
 .jarvis_header {
   display: flex;
-  margin-top: 40px;
+  /* margin-top: 40px; */
   padding: 2rem 6rem;
 
 }
@@ -111,7 +111,7 @@
     .jarvis_header{
         flex-direction: column;
         padding: 0 6rem;
-        margin-top: 20px;
+        /* margin-top: 20px; */
     }
 
     .jarvis_header-content{

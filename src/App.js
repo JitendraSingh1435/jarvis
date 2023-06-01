@@ -11,13 +11,13 @@ const App = () => {
         <Navbar/>
         <Header/>
       </div>
-      {/* <Brand/>
+      <Brand/>
       <Whatjarvis/>
       <Feature/>
       <Possibility/>
       <Calltoaction/>
       <Blog/>
-      <Footer/> */}
+      <Footer/>
 
     </div>
   )
